@@ -3,7 +3,8 @@
 ## What I Learned
 
 - Installed Git
-- Installed Visual Studio Code
+- Installed Visual Studio Code0
+
 ## Software development tool
 - Installed Python
 ## Programing Language
